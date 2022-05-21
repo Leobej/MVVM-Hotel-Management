@@ -22,3 +22,30 @@ C:\Users\LeonardBejgu\Documents\GithubMixconix\MVVM-Hotel-Management\Hotel Manag
 C:\Users\LeonardBejgu\Documents\GithubMixconix\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.pdb
 C:\Users\LeonardBejgu\Documents\GithubMixconix\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.genruntimeconfig.cache
 C:\Users\LeonardBejgu\Documents\GithubMixconix\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\ref\Hotel Management Project.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\bin\Debug\net5.0-windows\Hotel Management Project.exe
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\bin\Debug\net5.0-windows\Hotel Management Project.deps.json
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\bin\Debug\net5.0-windows\Hotel Management Project.runtimeconfig.json
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\bin\Debug\net5.0-windows\Hotel Management Project.runtimeconfig.dev.json
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\bin\Debug\net5.0-windows\Hotel Management Project.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\bin\Debug\net5.0-windows\Hotel Management Project.pdb
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.csproj.AssemblyReference.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Views\LoginWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Views\MainWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Views\RegisterWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project_MarkupCompile.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project_MarkupCompile.lref
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Views\LoginWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Views\MainWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Views\RegisterWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.g.resources
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.AssemblyInfoInputs.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.AssemblyInfo.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.csproj.CoreCompileInputs.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\refint\Hotel Management Project.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.pdb
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\Hotel Management Project.genruntimeconfig.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\ref\Hotel Management Project.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs

@@ -8,19 +8,24 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LeonardBejgu\\.nuget\\packages\\": {}
+    "C:\\Users\\EmilBotezatu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LeonardBejgu\\Documents\\GithubMixconix\\MVVM-Hotel-Management\\Hotel Management Project\\Hotel Management Project\\Hotel Management Project.csproj",
+      "projectUniqueName": "C:\\Users\\EmilBotezatu\\Work\\Facultate\\MVP\\MVVM-Hotel-Management\\Hotel Management Project\\Hotel Management Project\\Hotel Management Project.csproj",
       "projectName": "Hotel Management Project",
-      "projectPath": "C:\\Users\\LeonardBejgu\\Documents\\GithubMixconix\\MVVM-Hotel-Management\\Hotel Management Project\\Hotel Management Project\\Hotel Management Project.csproj",
-      "packagesPath": "C:\\Users\\LeonardBejgu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LeonardBejgu\\Documents\\GithubMixconix\\MVVM-Hotel-Management\\Hotel Management Project\\Hotel Management Project\\obj\\",
+      "projectPath": "C:\\Users\\EmilBotezatu\\Work\\Facultate\\MVP\\MVVM-Hotel-Management\\Hotel Management Project\\Hotel Management Project\\Hotel Management Project.csproj",
+      "packagesPath": "C:\\Users\\EmilBotezatu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EmilBotezatu\\Work\\Facultate\\MVP\\MVVM-Hotel-Management\\Hotel Management Project\\Hotel Management Project\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LeonardBejgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EmilBotezatu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

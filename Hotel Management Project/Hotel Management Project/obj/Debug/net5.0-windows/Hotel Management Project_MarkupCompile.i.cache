@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\LeonardBejgu\Documents\GithubMixconix\MVVM-Hotel-Management\Hotel Management Project\Hotel Management Project\App.xaml
-11407045341
+3-50297157
 
-61230505050
+8-250529443
 193-1891726104
-MainWindow.xaml;
+MainWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;
 
-False
+True
 
